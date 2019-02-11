@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>nantcontrib</id>
+    <version>0.92.20190211</version>
+    <title>nantContrib (Install)</title>
+    <authors>Ryan Boggs</authors>
+    <owners>APO</owners>
+    <licenseUrl>http://nantcontrib.sourceforge.net/license.html</licenseUrl>
+    <projectUrl>http://nantcontrib.sourceforge.net/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>NAntContrib is the project for tasks and tools that haven't made it into the main NAnt distribution yet or for whatever reason don't belong there.</description>
+    <summary>NAntContrib is the project for tasks and tools that haven't made it into the main NAnt distribution yet or for whatever reason don't belong there.</summary>
+    <tags>nantcontrib nant build</tags>
+    <dependencies>
+      <dependency id="nant" version="0.92.2" />
+    </dependencies>
+  </metadata>
+</package>
