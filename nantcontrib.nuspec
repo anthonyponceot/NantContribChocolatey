@@ -8,6 +8,7 @@
     <owners>APO</owners>
     <licenseUrl>http://nantcontrib.sourceforge.net/license.html</licenseUrl>
     <projectUrl>http://nantcontrib.sourceforge.net/</projectUrl>
+	<packageSourceUrl>https://github.com/anthonyponceot/NantContribChocolatey</packageSourceUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>NAntContrib is the project for tasks and tools that haven't made it into the main NAnt distribution yet or for whatever reason don't belong there.</description>
     <summary>NAntContrib is the project for tasks and tools that haven't made it into the main NAnt distribution yet or for whatever reason don't belong there.</summary>
